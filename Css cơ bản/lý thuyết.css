@@ -1,0 +1,37 @@
+#li1 {
+    color: rgb(240, 15, 120);
+    font-size: 60px;
+}
+
+.mau_do {
+    color: red;
+}
+
+.size_50 {
+    font-size: 50px;
+}
+
+#p1 {
+    height: 100px;
+    width: 100px;
+}
+
+.box1 {
+    height: 600px;
+    width: 900px;
+    padding: 10px;
+    background-image: url(https://file.tinnhac.com/resize/600x-/2019/10/05/20191005102020-187d.jpg);
+    background-repeat: no-repeat;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+}

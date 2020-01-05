@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.list-box{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    /* căn giữa */
+    margin: 0 auto; 
+}
+.box1
+{
+
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+.box2
+{
+
+    background-color: gold;
+    width: 50px;
+    height: 50px;
+}
+.box3
+{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}

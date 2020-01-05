@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: black;
+}
+
+
+/* .row>[class^=col-] {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: white;
+    text-align: center;
+} */
+
+#session-2,
+#footer {
+    background-color: black;
+    padding: 50px;
+}
+
+.box {
+    background-color: white;
+    padding: 15px;
+}
+
+.ke-chan {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    color: #333;
+}

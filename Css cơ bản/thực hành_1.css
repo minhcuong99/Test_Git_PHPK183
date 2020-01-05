@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#id {
+    width: 100%;
+    height: 200px;
+}
+
+.dinh_dang {
+    float: left;
+    width: 20%;
+    color: crimson;
+}
+
+#ok {
+    width: 600px;
+    height: 400px;
+}
+
+.oke {
+    float: left;
+    margin-right: 5px;
+}
